@@ -4,6 +4,11 @@ class tweet:
         self.score = 1
         self.tweetId = 0
 
+
+class yo:
+    def__init__(self):
+        self.yo = 'yo'
+
 class relation:
     def __init__(self):
         self.name = ''
