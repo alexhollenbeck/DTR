@@ -4,6 +4,11 @@ class tweet:
         self.score = 1
         self.tweetId = 0
 
+class another:
+    def__init__(self):
+        self.yo = 'yo'
+        self.tags = []
+
 class author:
     def __init__(self):
         self.score = 1
