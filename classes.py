@@ -6,8 +6,6 @@ class tweet:
 
 class another:
     def__init__(self):
-        self.hi = 'hi'
-        self.people = ['Alex', 'Phil']
         self.yo = 'yo'
         self.tags = []
 
